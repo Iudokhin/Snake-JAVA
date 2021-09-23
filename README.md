@@ -1,1 +1,1 @@
-# Snake-JAVA
+# Snake-JAVA in console mode
